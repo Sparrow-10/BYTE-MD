@@ -24,7 +24,7 @@
 
     
 
-1. Link your WhatsApp by [`PAIR CODE`](https://session.talkdrove.com/)
+1. Click [`fork`](https://session.talkdrove.com/)
 2. ***Then `Go to Whatapp > Three dots > Linked Devices`***
 3.  ***Deploy on [`TalkDrove`](https://talkdrove.com/share-bot/69)***
 
