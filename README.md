@@ -1,8 +1,8 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-<h1 align="center"> BYTE-MD </h1> 
-<p align="center">BYTE-MD made for people, on Earth </p>
+<h1 align="center"> YANNICK-MD </h1> 
+<p align="center"> YANNICK-MD made for people, on Earth </p>
 
  
     
@@ -15,7 +15,7 @@
 
 
 
-<p align="center"> BYTE-MD uses
+<p align="center"> YANNICK-MD uses
   <a href="https://github.com/adiwajshing/Baileys">Multi-Device Baileys.</a>
 </p>
 <p align="center">
